@@ -16,8 +16,8 @@
 
 ---
 
+<h2 align="center">Kidy King Educational Games </h2>
 <h3 align="center">Kidy King Educational Games </h3>
-
 
 ![port1](https://github.com/Fuad-Simon/portfolio/assets/66960522/6caff4ff-88fe-45c5-9b41-4b2faf33eb66)
 ---
