@@ -26,6 +26,7 @@
 <h2 align="center">Deen: Islam's full-life provision</h2>
 <h4 align="center">Deen is a Islamic lifestyle platform for Muslims. Deen is a very comprehensive app with many features. However, there are other features that I like as well- including the ability to learn about Islam and pray using specific times and directions.  Prayer Times, Qibla & Azan - Prayer Times with the help of Deen: Islam's full-life provision Apps.
 </h4>
+
 ![port2](https://github.com/Fuad-Simon/portfolio/assets/66960522/4e4c877f-a8e7-4579-b5d5-4744663ba86b)
 ![port3](https://github.com/Fuad-Simon/portfolio/assets/66960522/bcea7c58-3a71-4d20-a3b0-43476bfb5ef1)
 ![port4](https://github.com/Fuad-Simon/portfolio/assets/66960522/08b21f10-be39-4e3a-a6af-4a6e0b3d7818)
