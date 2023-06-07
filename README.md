@@ -35,9 +35,10 @@
 <h2 align="center">NapTech Games</h2>
 <h4 align="center">Play the Thousands of online games. The largest source of Online Games Platform. NapTech Games is a one-stop destination for all your gaming needs. We offer innovative and fun games, catering to every gamer's taste with freshness in the ever-emerging industry of trending Games!</h4>
 
-[![port 5](https://github.com/Fuad-Simon/portfolio/assets/66960522/2e7e76c1-db0c-4260-9967-03a1a1bb9b2b)](https://play.google.com/store/search?q=naptech%20games&c=apps)
+[![port 5](https://github.com/Fuad-Simon/portfolio/assets/66960522/2e7e76c1-db0c-4260-9967-03a1a1bb9b2b)]
 
 ![5a902dbf7f96951c82922875](https://github.com/Fuad-Simon/portfolio/assets/66960522/2ccb0f43-d5ae-4e5a-b3b4-cb1d191e3cb3)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://play.google.com/store/search?q=naptech%20games&c=apps)
 
 
 ---
