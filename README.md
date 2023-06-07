@@ -32,8 +32,11 @@
 ![port4](https://github.com/Fuad-Simon/portfolio/assets/66960522/08b21f10-be39-4e3a-a6af-4a6e0b3d7818)
 
 ---
+<h2 align="center">Deen: Islam's full-life provision</h2>
+<h4 align="center">Deen: Islam's full-life provision</h4>
 ![port 5](https://github.com/Fuad-Simon/portfolio/assets/66960522/2e7e76c1-db0c-4260-9967-03a1a1bb9b2b)
 
+![play-store-button](https://cloud.githubusercontent.com/assets/5692567/10923351/6b688a92-8278-11e5-9973-8ffbf3c5cc52.png)
 ---
 ![port6](https://github.com/Fuad-Simon/portfolio/assets/66960522/672a12f3-aa02-452c-b1fb-1a47eb4744ed)
 
