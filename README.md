@@ -17,7 +17,8 @@
 ---
 
 <h2 align="center">Kidy King Educational Games </h2>
-<h3 align="center">Kidy King Educational Games </h3>
+<h4 align="center">Kidy King Games is all about providing educational games for kids that help them learn more about different aspects of their daily life in a fun and engaging way. We strongly believe that educational games can play a big role in a child's development, so we're always looking for new and innovative ways to help kids learn and grow. If you're looking for a fun and educational game for your child, be sure to check out Kidy King Games!
+ </h4>
 
 ![port1](https://github.com/Fuad-Simon/portfolio/assets/66960522/6caff4ff-88fe-45c5-9b41-4b2faf33eb66)
 ---
